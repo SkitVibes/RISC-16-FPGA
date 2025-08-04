@@ -45,7 +45,7 @@ XOR 2 3 4
 
 # Files
 
-- `src/` – All Verilog HDL modules
+- `RISC16_Project.v/` – All Verilog HDL modules
 - `RISC16_FPGA_Report_JavierUribe.pdf/` – Full lab report
 
 # Tools Used

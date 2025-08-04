@@ -46,9 +46,7 @@ XOR 2 3 4
 # Files
 
 - `src/` – All Verilog HDL modules
-- `constraints/` – XDC pin constraints file
-- `testbench/` – Simulation testbench
-- `report/` – Full lab report
+- `RISC16_FPGA_Report_JavierUribe.pdf/` – Full lab report
 
 # Tools Used
 
